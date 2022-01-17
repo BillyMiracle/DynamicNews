@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+target 'ZhihuDailyImitation' do
+pod 'JSONModel', '~> 1.8.0'
+pod 'Masonry'
+pod 'SDWebImage'
+pod 'FMDB'
+end
